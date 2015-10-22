@@ -1,0 +1,125 @@
+<!-- 
+Copyright 2014 IBM Corp. All Rights Reserved
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+ 
+http://www.apache.org/licenses/LICENSE-2.0  
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#FFFFFF">
+
+
+
+
+    <TextView
+        android:id="@+id/firstText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColor="#222222"
+        android:textColorHint="#999999"
+        android:layout_above="@+id/password"
+        android:layout_alignLeft="@+id/password"
+        android:layout_alignStart="@+id/password"
+        android:layout_alignRight="@+id/password"
+        android:layout_alignEnd="@+id/password" />
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColor="#222222"
+        android:textColorHint="#999999"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="96dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="63dp"
+        android:background="#008ee0"
+        android:text="LOGIN"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_below="@+id/password"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/btnLinkToRegisterScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="Not a Member? Register"
+        android:textAllCaps="false"
+        android:textColor="#008ee0"
+        android:textSize="15dp"
+        android:layout_below="@+id/btnLogin"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <EditText
+        android:id="@+id/itemToAdd"
+        android:layout_width="23dp"
+        android:layout_height="20dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/notifyMessage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="Send Notification"
+        android:textAllCaps="false"
+        android:textColor="#008ee0"
+        android:textSize="15dp"
+        android:layout_below="@+id/btnLinkToRegisterScreen"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_above="@+id/firstText"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ibmlanding"/>
+    <!--<TextView
+        android:id="@+id/titleText"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+        android:text="@string/title_text"
+        android:textColor="@color/list_text_color"
+        android:fontFamily='Roboto'
+        android:textStyle='bold'
+        android:textAllCaps="true"
+        android:textSize="28sp"
+        android:padding="10dp"
+        android:background="@drawable/titlelines">
+    </TextView>
+    <ListView
+        android:id="@+id/itemsList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+	    android:background="@color/background">
+    </ListView>-->
+    
+</RelativeLayout>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-85d8f2d2e07bb569cc0946c2debe585a1b5e3a1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmpush\1.0.1.20150311-1224\1a3a205e878b1aa43036550c13cbfd05cdd76c56\ibmpush-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a3a205e878b1aa43036550c13cbfd05cdd76c56">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\ibmpush-1.0.1.20150311-1224-59a522ccd21f6d240631308a70eab065664b1bbf.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\android-async-http-1.4.6-29a08f4d384e0622f4ead75ae3a9944fc9efba9d.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-fbf4d5229b3a1aa0b2f9d0ba925075f5f6900075.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\internal_impl-22.0.0-3304b85ac2bc6d3d8e194006fcfee2e5dd0b3567.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-7c7c54a3886cb46d2bb745599d67e9a37be44c0e.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\gson-2.3.1-7b07c2dd4a2bb4995cbf0ff6ca8c1e8a07b931c4.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\libs\sensorobeaconkit-3.2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="facc8bbf23a06d6d294e15362282f6cf61c98022">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\sensorobeaconkit-3.2.5-b0b9aba0034992c5e987e0bf6169e9b89fe7b885.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\libs\greendao-1.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\greendao-1.3.7-fc7b1fabb5cc8a0348813106ae13f6be7f68d262.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-029e6a7132f79a857e84c1559c1040e6ef4b2ca5.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\libs\sensorocloud-3.2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4f3d791ebdef13894d5abb19265f83194e24066">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\sensorocloud-3.2.5-4b643643eaf0410e07ae2b77713657bd0cdd1131.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-c70c01b4eb82f0e78addc7c1699ea7737f9a2d54.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-e4d78dbad086dd3f02e82a9c418dddeb5531a130.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-d95ca4ba91a5f0f446c26877c2dc70a0a767a9e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmdata\1.0.1.20150311-1224\a589c20860ad3cdfa77ba4c6449cc1dda410d93\ibmdata-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a589c20860ad3cdfa77ba4c6449cc1dda410d93">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\ibmdata-1.0.1.20150311-1224-848155bfbc4d75fc13125fda9e2f85ebb04b2265.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-bcdcc1640999e5d2df0bcda7d9bf831c47df18b8.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-914d13d492b384114b205d6176278a6a76d375a9.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-255c1cb8c7400326d0352e3ba1239996177111a5.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-be49018ccc7313947d74b7e1a1cd18de22070bf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\support-annotations-22.0.0-b02d5f0bbb77641e1684f83d7fa0b9acc540cbd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmcloudcode\1.0.1.20150311-1224\306322622d644814e0668b28f19b70e4b4b6c0ce\ibmcloudcode-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="306322622d644814e0668b28f19b70e4b4b6c0ce">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\ibmcloudcode-1.0.1.20150311-1224-2e1abdcf37b1e8dbd5311d044e78a2c4151a8ea0.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-447e60ef8957f5a6ef25cf33b75842171a0bc60a.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-2a67127f9fe269587f92303157d2c77fd22bb15f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmfilesync\1.0.1.20150311-1224\c9c2a97cdf54089bcc736b0589d299f3886c5257\ibmfilesync-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c9c2a97cdf54089bcc736b0589d299f3886c5257">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\ibmfilesync-1.0.1.20150311-1224-22e41d8afd30e049a214d5b9c32b26cda25c3dfe.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-e47b35438d8307a82095b1f3de59bb4098cfdc26.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-a0f38af3035e17432a465359f9c7147bd24361f1.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-0abd4203638c5b2a225c79b5b66170ce4a85d7db.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-38f4b1f600bdc4c6d07e9232fb1ecba1504226b0.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-39c54066e290f48c054c41d397135c800853c86e.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-b9364a1f270cd680d6b508d2d34702be140e50fa.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-02189bbe9cb754c83a3250e103c193767b98f2c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ibm.mobile.services\ibmbluemix\1.0.1.20150311-1224\7bdbbcf8f380f8dd86e62b8cc88f36eec2ad2914\ibmbluemix-1.0.1.20150311-1224.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7bdbbcf8f380f8dd86e62b8cc88f36eec2ad2914">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\ibmbluemix-1.0.1.20150311-1224-b81bce081c10603d69a9ffdecc4f3a1c56e745e7.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-d5f38e4e96755222019159e8a3d08c9991a8af5f.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\internal_impl-22.0.0-b4981b3a3924b0b84190baf6141672d0925a7190.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-4ca77f65220de9f3fdfd022adbb86cc46fb04bb9.jar" />
+    </item>
+    <item
+        jar="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\jrkumar\official\ISC\2015\mobile\ibm beacons project\new_beacon\build\intermediates\pre-dexed\release\classes-a015ff9d14d7953fee665178e0669b209c377afc.jar" />
+    </item>
+
+</items>
